@@ -1,20 +1,11 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 
-
-/**
- *
- * @author larra
- */
 public class HtmlFilter {
      /**
     * Filter the specified message string for characters that are sensitive
     * in HTML.  This avoids potential attacks caused by including JavaScript
     * codes in the request URL that is often reported in error messages.
     */
+    //This file comes from the Tomcat7 online examples
    public static String filter(String message) {
       if (message == null) return null;
       int len = message.length();

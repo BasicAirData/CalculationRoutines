@@ -1,14 +1,8 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ /*
+ * Free software, use at your own risk.
+ * BasicAirData 2016
+ * JLJ
  */
-
-/**
- *
- * @author larra
- */
-// Import required java libraries
 import java.io.*;
 import static java.lang.System.out;
 import java.lang.*;
