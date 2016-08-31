@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Differential Pressure Sensor Range Finder</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="http://www.basicairdata.eu/wp-content/themes/vantage-zen-child/style.css">
+    </head>
+<body style="background-color:#fcfcfc">
+<form action="RangeFinder" method="GET">
+Desired calibrated airspeed [m/s]: <br />
+<input type="text" name="MaximumAirspeed" value="57.1428">
+<br />
+Desired confidence interval for CAS [m/s]: <br />
+<input type="text" name="uCAS" value="1.0" >
+<br />
+c factor [Dimensionless]: <br />
+<input type="text" name="cFactor" value="1.0" >
+<br />
+Confidence interval of c: <br />
+<input type="text" name="uc" value="0.005" >
+<br />
+<br />
+<input type="submit" value="Submit" />
+</form>
+</body>
+</html>
