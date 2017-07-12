@@ -1,3 +1,3 @@
-[Check the code of conduct here](/blob/master/CODE_OF_CONDUCT.md)dfdfd
-fgsdgsdfgs
-[Contribution info](https://github.com/BasicAirData/Document-Templates/blob/master/general-info.md)
+[Check the code of conduct here](/blob/master/CODE_OF_CONDUCT.md)
+## Best way of contribution is to find some open issue or bug and fix it!
+[General contribution and contact info](http://www.basicairdata.eu/join/)
