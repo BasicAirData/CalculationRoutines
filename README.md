@@ -3,7 +3,7 @@ Code of the servlets used on the website
 http://www.basicairdata.eu/projects/calculation-routines/
 IDE Netbeans
 
-##Reference documents
+## Reference documents
 
 [Code of conduct](CODE_OF_CONDUCT.md)
 
@@ -11,5 +11,6 @@ IDE Netbeans
 
 [Genearal Repository License](LICENSE)
 
-##License and General Information
+## License and General Information
+
 [License and general info](https://github.com/BasicAirData/Document-Templates/blob/master/general-info.md)
