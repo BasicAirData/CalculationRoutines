@@ -10,7 +10,3 @@ IDE Netbeans
 [Contributing Information](CONTRIBUTING.md)
 
 [Genearal Repository License](LICENSE)
-
-## License and General Information
-
-[License and general info](https://github.com/BasicAirData/Document-Templates/blob/master/general-info.md)
