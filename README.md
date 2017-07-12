@@ -9,4 +9,4 @@ IDE Netbeans
 
 [Contributing Information](CONTRIBUTING.md)
 
-[Genearal Repository License](LICENSE)
+[Repository License](LICENSE)
