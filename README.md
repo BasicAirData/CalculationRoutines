@@ -1,7 +1,8 @@
-# Calculation Routines JAVAEE
+# Calculation Routines
 Code of the servlets used on the website
 http://www.basicairdata.eu/projects/calculation-routines/
 IDE Netbeans
+General Calculation code
 
 ## Reference documents
 
